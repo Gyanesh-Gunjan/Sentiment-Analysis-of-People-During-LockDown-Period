@@ -12,3 +12,11 @@ google-colab         |    1.0.0
 regex                |    2019.12.20  
 
 ## Some Results
+### Sentiment Analysis
+![Sentiment.png](https://raw.githubusercontent.com/Gyanesh-Gunjan/Sentiment-Analysis-of-People-During-LockDown-Period/master/images/Sentiment%20Analysis.png)
+
+### Subjectivity Vs Polarity
+![subjectivityVsPolarity](https://raw.githubusercontent.com/Gyanesh-Gunjan/Sentiment-Analysis-of-People-During-LockDown-Period/master/images/SubjectivityVsPolarity.png)
+
+# Word Cloud
+![WordCloud.png](https://raw.githubusercontent.com/Gyanesh-Gunjan/Sentiment-Analysis-of-People-During-LockDown-Period/master/images/WordCloud.png)
